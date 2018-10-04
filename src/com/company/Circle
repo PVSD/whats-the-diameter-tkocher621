@@ -1,0 +1,10 @@
+package com.company;
+
+public class Circle {
+
+    public double diameter(double x)
+    {
+        return x*2;
+    }
+
+}
